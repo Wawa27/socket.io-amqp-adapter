@@ -1,0 +1,11 @@
+{
+  "name": "socket.io-amqp-adapter",
+  "version": "1.0.0",
+  "dependencies": {
+    "socket.io": "^4.5.4",
+    "socket.io-adapter": "^2.4.0",
+    "amqplib": "^0.10.3",
+    "debug": "^4.3.2",
+    "uuid": "^8.3.2"
+  }
+}
